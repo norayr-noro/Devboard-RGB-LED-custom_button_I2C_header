@@ -1,2 +1,2 @@
-# Devboard-RGB-LED-custom_button_I2C_header
-I am building a custom RP2040-based development board based on the Hack Club devboard guide, with added features including an RGB LED, a user input button, and an I2C header, along with a custom PCB design for improved usability and appearance.
+# THE MEOWBOARD™
+For this project ill be designing the schematic and a custom PCb from that schematic based on the STasis Devboard starter guide, the difference between mine and the guide's board is that mine adds an extra button for reset, an LED for knowing if the PCB is on, and a custom RGB LED on the deboard itself (and dont forget the silkscreen art on the PCB!!)
