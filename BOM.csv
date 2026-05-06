@@ -1,0 +1,27 @@
+,Price valued per unit and total price PER BOARD,,,,
+Item,URL,Price (per unit ),Quantity needed,Quantity to order (min on JLCPCB),Total
+1uf caps,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923,0.0039,4,8,$0.01 
+0.1uf (100nf) caps,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,0.0013,11,22,$0.01 
+15pf caps,https://jlcpcb.com/partdetail/1900-0402CG150J500NT/C1548,0.0012,2,4,$0.01 
+SK6812MINI-E (RGB-LED),https://jlcpcb.com/partdetail/OPSCOOptoelectronics-SK6812MINIE/C5149201,0.086,1,2,$0.17 
+LED,https://jlcpcb.com/partdetail/85425-NCD0805R1/C84256,0.0133,1,2,$0.03
+USB-C female surface mount,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948,0.1832,1,2,$0.37
+5.1K resistors,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905,0.0009,2,4,$0.01
+27 ohm resistors,https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100,0.0008,2,4,$0.01
+10K resistors,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744,0.0013,2,4,$0.01
+330 ohm resistors,https://jlcpcb.com/partdetail/25847-0402WGF3300TCE/C25104,0.0011,1,2,$0.01
+1K resistors,https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702,0.001,3,6,$0.01
+4.7K resistors,https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900,0.001,2,4,$0.01
+push buttons,https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477,0.0555,2,4,$0.11
+RP2040,https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040,0.9764,1,2,$1.95
+AMS1117-3.3,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186,0.2118,1,2,$0.42
+W25Q128JVSIQ,https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521 ,1.892,1,2,$3.78
+NX3225GA 12MHZ,https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407,0.249,1,2,$0.50
+,,,,,
+,,,,,
+Subtotal (only parts),8.23,,,,
+Shipping and handling,1.5,,,,
+PCB,4,,,,
+,,,,,
+Total (without assembly fees),13.73,,,,
+Total (with fees),38.09,,,,
