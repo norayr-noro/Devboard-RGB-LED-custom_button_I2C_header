@@ -44,12 +44,14 @@ After adding all of that, the ending schematic looked like this:
 After this, the project went into the PCB stage. This was quite difficult at first, trying to cram all of this into such a small profile, so the prototype model of the PCB did not look that great. Knowing this would not be a sufficent for submition i did a complete re-work of the PCB and learnt a few things doing it, like the data wires from the USB-C should be around equal, or that the storage decoupling capacitors and the crystal oscillator should be really close to not cause errors in their own cases.
 Another big think i learnt is how to check for errors and at the same time learnt how to make custom silkscreen art from images using the image converter on KiCad. Simply put, you import the image into the converter, slide the black/white indicator slider to your liking, and then use the negative or not, which suits best. After that, you export the footprint as silkscreen, then add that footprint to the pcb maker on KiCad, after which you could use the silkscreen footprint to your liking (i put my silkscreen and the reference images in the photos folder in this repository dont ask why its all cats i just though its might be funny and cool) after all of that the pcb looks something like this:
 
-<img width="1360" height="722" alt="Screenshot 2026-05-01 105045" src="https://github.com/user-attachments/assets/41305687-90f7-4dbc-a22a-95170a3d9635" />
+<img width="444" height="539" alt="PCB_screenshot(2d)" src="https://github.com/user-attachments/assets/0bc071dc-1d07-4409-b048-9a6d36416843" />
+
 
 And also here's the final 3d model (back and front):
 
-<img width="1259" height="703" alt="Screenshot 2026-05-01 105021" src="https://github.com/user-attachments/assets/f532aa77-d431-4c77-a110-ef5024199f82" />
-<img width="1268" height="703" alt="Screenshot 2026-05-01 104954" src="https://github.com/user-attachments/assets/ffe5c0e2-c89a-4b66-b79a-66872a3693b6" />
+
+<img width="1366" height="707" alt="PCB_screenshot(example)" src="https://github.com/user-attachments/assets/d43ccb01-0c77-44ee-8be0-3023f0a0689c" />
+<img width="680" height="415" alt="PCB_screenshot(3d-back)" src="https://github.com/user-attachments/assets/a0ed36e1-7084-4149-ac9f-fea24de64531" />
 
 # Ordering 
 For ordering this pcb i though that JLCPCBs might be best due to their "comparatively" cheap assembly of PCBs. If you want to order this PCB for yourself, check the stasis guide for a full explanation here(https://stasis.hackclub.com/starter-projects/devboard), but in a nutshell, you'd need to put the .gerber file (it's the zip file for this repository, no need to extract it!) and the select the settings youd want then select the PCBA option and then when you start to check out it would want a BOM file (the excel file where all the BILL OF MATTERIALS are) and a position file where they should go, after all of that it should select "most" of the parts for you, then you could just select and approve which part goes for which. All of that and you're done!
