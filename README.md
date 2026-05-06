@@ -56,7 +56,7 @@ And also here's the final 3d model (back and front):
 # Ordering 
 For ordering this pcb i though that JLCPCBs might be best due to their "comparatively" cheap assembly of PCBs. If you want to order this PCB for yourself, check the stasis guide for a full explanation here(https://stasis.hackclub.com/starter-projects/devboard), but in a nutshell, you'd need to put the .gerber file (it's the zip file for this repository, no need to extract it!) and the select the settings youd want then select the PCBA option and then when you start to check out it would want a BOM file (the excel file where all the BILL OF MATTERIALS are) and a position file where they should go, after all of that it should select "most" of the parts for you, then you could just select and approve which part goes for which. All of that and you're done!
 
-#Updates - Notes
+# Updates - Notes
 After reviewing the files, I have changed quite a few things with the help of a reviewer. My first thing is that I added the .csv a nd .xlsx files of all the parts for the PCB. Secondly, I updated the silkscreen design to remove the dotted lines, as they might cause some manufacturing difficulties. Continuing with the updates, I changed the WS2812B to an SK6812MINI-E and routed it's vdd to 5V instead of 3V3 due to it being out of spec for both cases. Finally, I changed the SRAM for a cheaper version, the W25Q128JVSIQ TR to the W25Q128JVSIQ, which is bigger, but it was quite cheaper than the last model. Other than that, I checked for any errors, did some polishing, and got there to be 0 DRC errors in sight.
 
 # 💭 Final Thoughts + Conclusion
