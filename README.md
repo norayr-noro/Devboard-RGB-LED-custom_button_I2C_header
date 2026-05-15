@@ -79,8 +79,9 @@ Also, I'll be adding the BOM file showing roughly where you can get all the part
 |W25Q128JVSIQ	 |https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521	 | 1.892 |	1 |	2 |	$3.78  |
 |NX3225GA 12MHZ	  |https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407 |	0.249 |	1 |	2 | $0.50  |
 
-| Subtotal (only parts) | 	8.23 |
+| N/A | price (USD) |
 | -------------------- | ------ |
+| Subtotal (only parts) | 	8.23 |
 |Shipping and handling |	1.5	 |			
 |PCB |	4	|			
 |Total (without assembly fees) |	13.73	|			
