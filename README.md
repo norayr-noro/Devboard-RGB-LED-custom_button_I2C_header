@@ -60,6 +60,7 @@ For ordering this pcb i though that JLCPCBs might be best due to their "comparat
 Also, I'll be adding the BOM file showing roughly where you can get all the parts and which parts I have used in this project.
 	Price valued per unit and total price PER BOARD				
 | Item	 |   URL	         |  Price (per unit )	| Quantity needed	|Quantity to order (min on JLCPCB) |	Total |
+| --------- | ----------------------------------------------------------| -------- | ------------- | ----------------------| ------------ |
 |1uf caps |	https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923 |	0.0039	| 4 |	8 |	$0.01 |
 |0.1uf (100nf) caps |	https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525 |	0.0013	| 11 |	22 |	$0.01 |
 |8pf caps |	https://jlcpcb.com/partdetail/1930-0402CG8R0C500NT/C1578 |	0.0012 |	2 |	4 |	$0.01 |
