@@ -77,12 +77,14 @@ Also, I'll be adding the BOM file showing roughly where you can get all the part
 |RP2040 |	https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040	           | 0.9764	| 1 |	2 |	$1.95 |
 |AMS1117-3.3	 | https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186 |	0.2118 |	1 |	2 |	$0.42  |
 |W25Q128JVSIQ	 |https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521	 | 1.892 |	1 |	2 |	$3.78  |
-|NX3225GA  |12MHZ	https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407 |	0.249 |	1 |	2 | $0.50  |
-Subtotal (only parts)	8.23				
-Shipping and handling	1.5				
-PCB	4				
-Total (without assembly fees)	13.73				
-Total (with fees)	38.09
+|NX3225GA 12MHZ	  |https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407 |	0.249 |	1 |	2 | $0.50  |
+
+| Subtotal (only parts) | 	8.23 |
+| -------------------- | ------ |
+|Shipping and handling |	1.5	 |			
+|PCB |	4	|			
+|Total (without assembly fees) |	13.73	|			
+|Total (with fees)	| 38.09 |
 # Updates - Notes
 After reviewing the files, I have changed quite a few things with the help of a reviewer. My first thing is that I added the .csv a nd .xlsx files of all the parts for the PCB. Secondly, I updated the silkscreen design to remove the dotted lines, as they might cause some manufacturing difficulties. Continuing with the updates, I changed the WS2812B to an SK6812MINI-E and routed it's vdd to 5V instead of 3V3 due to it being out of spec for both cases. Finally, I changed the SRAM for a cheaper version, the W25Q128JVSIQ TR to the W25Q128JVSIQ, which is bigger, but it was quite cheaper than the last model. Other than that, I checked for any errors, did some polishing, and got there to be 0 DRC errors in sight.
 
