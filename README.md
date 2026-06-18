@@ -1,6 +1,12 @@
 # THE MEOWBOARD™
 For this project, I'll be designing the schematic and a custom PCB from that schematic based on the Stasis Devboard starter guide. The difference between mine and the guide's board is that mine adds an extra reset button, an LED for knowing if the PCB is on, and a custom RGB LED on the deboard itself (and don't forget the silkscreen art on the PCB!!)
 
+And in the end, you will be able to build something like this (final PCB design):
+<img width="1200" height="1600" alt="0-02-0a-5f54006f74998824cae38a519255ede3a1102f58a7c9ddf14d4c79fe78d94d87_443757aca5db8ab8" src="https://github.com/user-attachments/assets/f3203762-832b-46bb-b0eb-a37bad0b71a9" />
+(pico for comparison)
+<img width="1200" height="1600" alt="0-02-0a-d7255440c6087dd8f548c1c4c8bda308f2dab044f12a11f5da1e0be1f177bf82_12b89559f94e0b06" src="https://github.com/user-attachments/assets/abd36e0f-5c4f-4f48-9668-e1452c886cd5" />
+<img width="1200" height="1600" alt="0-02-0a-9194cd3b3c2d9c57841d38ab1fd0262e6f11ff296acd15670b7e273657b1eed7_6d4cf1daf30ebf82" src="https://github.com/user-attachments/assets/0f8cac98-add7-46ad-b8ea-622dca2a891d" />
+
 # 📖 Overview
 In short, I'll be using the guide from Hack Club Stasis starter projects ( https://stasis.hackclub.com/starter-projects/devboard ) of which I'll be using the same RP2040 MCU chip, which is the same chip used in the rasberry pico and would act as the base of the whole devboard. By using this guide, I made my own basic devboard, which then I added an I2C header, an extra reset button, and more.
 
